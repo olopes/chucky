@@ -6,6 +6,7 @@ The nunchuk code was adapted from these sources:
 * [http://todbot.com/blog/2008/02/18/wiichuck-wii-nunchuck-adapter-available/](http://todbot.com/blog/2008/02/18/wiichuck-wii-nunchuck-adapter-available/)
 * [http://playground.arduino.cc/Main/WiiChuckClass](http://playground.arduino.cc/Main/WiiChuckClass)
 * [https://github.com/GabrielBianconi/ArduinoNunchuk/tree/master/ArduinoNunchuk](https://github.com/GabrielBianconi/ArduinoNunchuk/tree/master/ArduinoNunchuk)
+* [https://github.com/PyroAVR/TrinketNunchuck](https://github.com/PyroAVR/TrinketNunchuck)
 
 The flysky transmitter code is adapted from the code shared at rcgroups (thanks to midelic, PhracturedBlue, dave1993 and other):
 
