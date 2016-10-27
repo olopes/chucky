@@ -8,8 +8,9 @@ The nunchuk code was adapted from these sources:
 * [https://github.com/GabrielBianconi/ArduinoNunchuk/tree/master/ArduinoNunchuk](https://github.com/GabrielBianconi/ArduinoNunchuk/tree/master/ArduinoNunchuk)
 * [https://github.com/PyroAVR/TrinketNunchuck](https://github.com/PyroAVR/TrinketNunchuck)
 
-The flysky transmitter code is adapted from the code shared at rcgroups (thanks to midelic, PhracturedBlue, dave1993 and other):
+The flysky transmitter code is adapted from the code shared at rcgroups (thanks to midelic, PhracturedBlue, dave1993, ThierryRC and others):
 
+* [http://www.rcgroups.com/forums/showthread.php?t=1921870](http://www.rcgroups.com/forums/showthread.php?t=1921870)
 * [http://www.rcgroups.com/forums/showthread.php?t=2118378](http://www.rcgroups.com/forums/showthread.php?t=2118378)
 * [http://www.rcgroups.com/forums/showthread.php?t=1626362](http://www.rcgroups.com/forums/showthread.php?t=1626362)
 * [http://www.rcgroups.com/forums/showthread.php?t=2071642](http://www.rcgroups.com/forums/showthread.php?t=2071642)
